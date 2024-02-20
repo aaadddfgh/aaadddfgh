@@ -11,7 +11,7 @@
 ```
 - ✅ Java, Python, Cpp, Javascript ... 
 - 🌱 I’m currently learning godot
-- 📫 How to reach me: 1. [Email 702762447@qq.com](702762447@qq.com)
+- 📫 How to reach me: 1. [Email 702762447@qq.com](mail:702762447@qq.com)
 <!--
 **aaadddfgh/aaadddfgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
